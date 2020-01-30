@@ -6,6 +6,7 @@ I worked on a team (Hai Tuan Son Nguyen, Truc Linh  Mai, Hatem Fayed, Ahmed Boul
 - Clone the project
 - Open with your IDE
 - Go inside the "chart" folder
+- npm install
 - Then write : npm start
 - Done
 
